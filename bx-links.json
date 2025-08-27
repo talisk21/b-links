@@ -1,0 +1,168 @@
+{
+  "debugging": [
+    {
+      "title": "Инструменты для отладки",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/main/diag/debug/index.php"
+    },
+    {
+      "title": "Настройки обработки ошибок",
+      "url": "https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43&LESSON_ID=2795#exception_handling"
+    },
+    {
+      "title": "Логгеры",
+      "url": "https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43&LESSON_ID=15330"
+    }
+  ],
+  "iblock": [
+    {
+      "title": "CIBlockElement::Add",
+      "url": "https://dev.1c-bitrix.ru/api_help/iblock/classes/ciblockelement/add.php"
+    },
+    {
+      "title": "CIBlockElement::SetPropertyValuesEx",
+      "url": "https://dev.1c-bitrix.ru/api_help/iblock/classes/ciblockelement/setpropertyvaluesex.php"
+    }
+  ],
+  "d7_orm": [
+    {
+      "title": "Битрикс D7 (БУС и Битрикс24)",
+      "url": "https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43&CHAPTER_ID=05062"
+    },
+    {
+      "title": "Документация по ORM в Битрикс",
+      "url": "https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43&CHAPTER_ID=05748"
+    },
+    {
+      "title": "registerRuntimeField",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/main/entity/query/registerruntimefield.php"
+    }
+  ],
+  "crm": [
+    {
+      "title": "CRM Item",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/crm/item/index.php"
+    },
+    {
+      "title": "CRM Factory",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/crm/service/factory.php"
+    },
+    {
+      "title": "CRM Operation",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/crm/service/operation/index.php"
+    },
+    {
+      "title": "CRM Router",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/crm/service/router/router.php"
+    },
+    {
+      "title": "CRM Relation",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/crm/relation/relation.php"
+    },
+    {
+      "title": "CRM Collections",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/crm/item/work_with_collections_details.php"
+    },
+    {
+      "title": "CRM EntityRequisite Rebind",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/crm/entityrequisite/rebind.php"
+    }
+  ],
+  "highloadblock": [
+    {
+      "title": "Highloadblock API",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/highloadblock/index.php"
+    }
+  ],
+  "cache": [
+    {
+      "title": "PhpCache (CPhpCache)",
+      "url": "https://dev.1c-bitrix.ru/api_help/main/reference/cphpcache/index.php"
+    },
+    {
+      "title": "PageCache (CPageCache)",
+      "url": "https://dev.1c-bitrix.ru/api_help/main/reference/cpagecache/index.php"
+    },
+    {
+      "title": "Data\\Cache (D7)",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/main/data/cache/index.php"
+    }
+  ],
+  "components": [
+    {
+      "title": "Работа с компонентами (курс)",
+      "url": "https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43&CHAPTER_ID=04790&LESSON_PATH=3913.3516.4790"
+    },
+    {
+      "title": "Кастомизация компонентов (курс)",
+      "url": "https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43&CHAPTER_ID=04779"
+    },
+    {
+      "title": "Создание компонентов (старый подход)",
+      "url": "https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43&LESSON_ID=2894&LESSON_PATH=3913.3435.4777.2894"
+    },
+    {
+      "title": "main.ui.grid параметры",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/main/systemcomponents/gridandfilter/mainuigrid/parameters.php"
+    }
+  ],
+  "userfields": [
+    {
+      "title": "Документация по пользовательским полям",
+      "url": "https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43&CHAPTER_ID=04804&LESSON_PATH=3913.3516.4804"
+    },
+    {
+      "title": "Типы пользовательских полей",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/main/userfield/settings/types.php"
+    }
+  ],
+  "js_api": [
+    {
+      "title": "BX.ajax.runAction",
+      "url": "https://dev.1c-bitrix.ru/api_help/js_lib/ajax/bx_ajax_runaction.php"
+    },
+    {
+      "title": "BX.ajax.runComponentAction",
+      "url": "https://dev.1c-bitrix.ru/api_help/js_lib/ajax/bx_ajax_runcomponentaction.php"
+    },
+    {
+      "title": "BX.PopupWindowManager",
+      "url": "https://dev.1c-bitrix.ru/api_help/js_lib/popup/popupwindowmanager.php"
+    },
+    {
+      "title": "BX.calendar",
+      "url": "https://dev.1c-bitrix.ru/api_help/js_lib/data/calendar.php"
+    },
+    {
+      "title": "BX.addCustomEvent",
+      "url": "https://dev.1c-bitrix.ru/api_help/js_lib/kernel/castom_events/bx_addcustomevent.php"
+    }
+  ],
+  "bizproc": [
+    {
+      "title": "CBPDocument",
+      "url": "https://dev.1c-bitrix.ru/api_help/bizproc/bizproc_classes/CBPDocument/index.php"
+    },
+    {
+      "title": "CBPRuntime::GetRuntime",
+      "url": "https://dev.1c-bitrix.ru/api_help/bizproc/bizproc_classes/CBPRuntime/GetRuntime.php"
+    },
+    {
+      "title": "IBPWorkflowDocument::UpdateDocument",
+      "url": "https://dev.1c-bitrix.ru/api_help/bizproc/interface/IBPWorkflowDocument/UpdateDocument.php"
+    }
+  ],
+  "other": [
+    {
+      "title": "HttpClient",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/main/web/httpclient/index.php"
+    },
+    {
+      "title": "UI Toolbar",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/ui/toolbar/get_started.php"
+    },
+    {
+      "title": "Entity Selector: TagSelector",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/ui/entity_selector/tag_selector/index.php"
+    }
+  ]
+}
