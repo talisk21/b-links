@@ -167,6 +167,48 @@
     {
       "title": "list of places to insert REST app",
       "url"": "https://apidocs.bitrix24.ru/api-reference/widgets/index.html"
+    },
+    {
+      "title": "bitrix sidepanel clickable links documentation",
+      "url": "https://dev.1c-bitrix.ru/api_help/js_lib/sidepanel/click_links.php"
+    }, 
+    {
+      "title": "bitrix sidepanel content documentation",
+      "url": "https://dev.1c-bitrix.ru/api_help/js_lib/sidepanel/content.php"
+    }, 
+    {
+      "title": "bitrix sidepanel general documentation",
+      "url": "https://dev.1c-bitrix.ru/api_help/js_lib/sidepanel/index.php"
+    }, 
+    {
+      "title": "bitrix selector documentation",
+      "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/ui/entity_selector/tag_selector/index.php"
+    }
+  ],
+  "integration with 1C": [
+    {
+      "title": "customization of goods exchange between bitrix and 1C",
+      "url": "https://nikaverro.ru/blog/bitrix/obmen-s-1s-kastomazatsiya-obmena-tovarami-s-bitriks24/"
+    },
+    {
+      "title": "exchange of contacts from 1C to bitrix using REST API",
+      "url": "https://1clancer.ru/article/peredaem_kontakty_iz_1s_v_bitriks24_cherez_rest_api_2630"
+    },
+    {
+      "title": "Integtagin of bitrix24 and 1C",
+      "url": "https://www.bitrix24.ru/features/more/1c/"
+    },
+    {
+      "title": "Integration of employee info with 1C",
+      "url": "https://helpdesk.bitrix24.ru/open/20911412/"
+    },
+    {
+      "title": "1C and bitrix24 integration",
+      "url": "https://helpdesk.bitrix24.ru/open/21050470/"
+    },
+    {
+      "title": "User access ans basic 1C settings",
+      "url": "https://helpdesk.bitrix24.ru/open/17499010/"
     }
   ]
 }
