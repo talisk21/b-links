@@ -163,6 +163,10 @@
     {
       "title": "Entity Selector: TagSelector",
       "url": "https://dev.1c-bitrix.ru/api_d7/bitrix/ui/entity_selector/tag_selector/index.php"
+    },
+    {
+      "title": "list of places to insert REST app",
+      "url"": "https://apidocs.bitrix24.ru/api-reference/widgets/index.html"
     }
   ]
 }
